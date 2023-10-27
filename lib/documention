@@ -1,0 +1,7 @@
+// Fingerprint
+
+1) Add dependency local_auth
+2) in MainActivity.kt file  andriod/app/main/kotline/MainActivity.kt
+change "activity" to "FlutterFragmentActivity" and also import its library
+3) Also add permissions in Andriodmanifest.xml file.
+
